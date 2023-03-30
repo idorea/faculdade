@@ -1,2 +1,2 @@
-# faculdade
-faculdade-repositório
+# vorx-network
+vorxnetwork-repositório
